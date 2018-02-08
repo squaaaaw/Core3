@@ -1,0 +1,8 @@
+server/zone/objects/resource/simplexnoise/SimplexNoise.o: \
+ ../../../src/server/zone/objects/resource/simplexnoise/SimplexNoise.cpp \
+ /usr/include/stdc-predef.h \
+ ../../../src/server/zone/objects/resource/simplexnoise/SimplexNoise.h
+
+/usr/include/stdc-predef.h:
+
+../../../src/server/zone/objects/resource/simplexnoise/SimplexNoise.h:
